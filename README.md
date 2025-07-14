@@ -1,1 +1,1 @@
-Some public scripts to share with toher 
+Some public scripts to share with others 
