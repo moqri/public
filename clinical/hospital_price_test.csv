@@ -1,0 +1,56 @@
+description,code|1,code|1|type,setting,drug_unit_of_measurement,drug_type_of_measurement,standard_charge|gross,standard_charge|discounted_cash,payer_name,plan_name,modifiers,standard_charge|negotiated_dollar,standard_charge|negotiated_percentage,standard_charge|negotiated_algorithm,estimated_amount,standard_charge|min,standard_charge|max,standard_charge|methodology,additional_generic_notes
+Inpatient - ALL,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2506.000,,,2506.000,1586.00,2506.00,Per diem,
+Inpatient - ALL,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2506.000,,,2506.000,1586.00,2506.00,Per diem,
+Inpatient - ALL,124,RC,Inpatient,,,3100.00,3100.00,BLUE CROSS FEDERAL,BLUE CROSS FEDERAL,,2488.000,,,2488.000,1586.00,2506.00,Per diem,
+Inpatient - ALL,124,RC,Inpatient,,,3100.00,3100.00,VA TRIWEST COMPACT,VA TRIWEST COMPACT,,1586.000,,,1586.000,1586.00,2506.00,Per diem,
+Inpatient - ALL,124,RC,Inpatient,,,3100.00,3100.00,BLUE CROSS FEDERAL,BLUE CROSS FEDERAL,,2488.000,,,2488.000,1586.00,2506.00,Per diem,
+Inpatient - ALL,124,RC,Inpatient,,,3100.00,3100.00,VA TRIWEST COMPACT,VA TRIWEST COMPACT,,1586.000,,,1586.000,1586.00,2506.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,FIRST CHOICE/ELECTRIC,FIRST CHOICE/ELECTRIC,,,95.000,,3100.00,1425.67,3089.00,Percent of total billed charges,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,FIRST CHOICE/ELECTRIC,FIRST CHOICE/ELECTRIC,,,95.000,,3100.00,1425.67,3089.00,Percent of total billed charges,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,FIRST CHOICE/ELECTRIC,FIRST CHOICE/ELECTRIC,,,95.000,,3100.00,1425.67,3089.00,Percent of total billed charges,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2506.000,,,2506.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2506.000,,,2506.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2506.000,,,2506.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,BCBS,BCBS,,2488.000,,,2488.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,MEDICAID SECONDARY,MEDICAID SECONDARY,,1472.050,,,1472.050,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,OCS,OCS,,1425.670,,,1425.670,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,TRICARE WEST,TRICARE WEST,,1480.000,,,1480.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,UNITED BEHAVIORAL,UNITED BEHAVIORAL,,2513.000,,,2513.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,BCBS,BCBS,,2488.000,,,2488.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,MEDICAID SECONDARY,MEDICAID SECONDARY,,1472.050,,,1472.050,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,OCS,OCS,,1425.670,,,1425.670,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,TRICARE WEST,TRICARE WEST,,1480.000,,,1480.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,UNITED BEHAVIORAL,UNITED BEHAVIORAL,,2513.000,,,2513.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,BCBS,BCBS,,2488.000,,,2488.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,MEDICAID SECONDARY,MEDICAID SECONDARY,,1472.050,,,1472.050,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,OCS,OCS,,1425.670,,,1425.670,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,TRICARE WEST,TRICARE WEST,,1480.000,,,1480.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,UNITED BEHAVIORAL,UNITED BEHAVIORAL,,2513.000,,,2513.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2684.000,,,2684.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,3089.000,,,3089.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2684.000,,,2684.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,3089.000,,,3089.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,AETNA,AETNA,,2684.000,,,2684.000,1425.67,3089.00,Per diem,
+Inpatient - Psych,124,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,3089.000,,,3089.000,1425.67,3089.00,Per diem,
+Inpatient - Rehab,128,RC,Inpatient,,,3100.00,3100.00,CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,,2852.000,,,2852.000,2546.00,2852.00,Per diem,
+Inpatient - Rehab,128,RC,Inpatient,,,3100.00,3100.00,UNITED BEHAVIORAL,UNITED BEHAVIORAL,,2546.000,,,2546.000,2546.00,2852.00,Per diem,
+Intensive Outpatient - ALL,905,RC,Outpatient,,,1200.00,1200.00,AETNA,AETNA,,400.000,,,400.000,287.99,400.00,Other,This service will be charge as a Per Visit
+Intensive Outpatient - ALL,905,RC,Outpatient,,,1200.00,1200.00,BCBS,BCBS,,375.000,,,375.000,287.99,400.00,Other,This service will be charge as a Per Visit
+Intensive Outpatient - ALL,905,RC,Outpatient,,,1200.00,1200.00,BLUE CROSS FEDERAL,BLUE CROSS FEDERAL,,375.000,,,375.000,287.99,400.00,Other,This service will be charge as a Per Visit
+Intensive Outpatient - ALL,905,RC,Outpatient,,,1200.00,1200.00,VA TRIWEST COMPACT,VA TRIWEST COMPACT,,287.990,,,287.990,287.99,400.00,Other,This service will be charge as a Per Visit
+IOP - Psych,905,RC,Outpatient,,,1200.00,1200.00,MEDICAID SECONDARY,MEDICAID SECONDARY,,10.670,,,10.670,10.67,230.52,Other,This service will be charge as a Per Hour/Unit
+IOP - Psych,905,RC,Outpatient,,,1200.00,1200.00,TRICARE WEST,TRICARE WEST,,230.520,,,230.520,10.67,230.52,Other,This service will be charge as a Per Visit
+IOP - SUD,906,RC,Outpatient,,,1200.00,1200.00,MEDICAID SECONDARY,MEDICAID SECONDARY,,10.670,,,10.670,10.67,230.52,Other,This service will be charge as a Per Hour/Unit
+IOP - SUD,906,RC,Outpatient,,,1200.00,1200.00,TRICARE WEST,TRICARE WEST,,230.520,,,230.520,10.67,230.52,Other,This service will be charge as a Per Visit
+Partial Hospital - ALL,915,RC,Outpatient,,,1800.00,1800.00,TRICARE WEST,TRICARE WEST,,437.080,,,437.080,287.99,685.00,Other,This service will be charge as a Per Hour/Unit
+Partial Hospital - ALL,915,RC,Outpatient,,,1800.00,1800.00,AETNA,AETNA,,600.000,,,600.000,287.99,685.00,Other,This service will be charge as a Per Visit
+Partial Hospital - ALL,915,RC,Outpatient,,,1800.00,1800.00,BCBS,BCBS,,685.000,,,685.000,287.99,685.00,Other,This service will be charge as a Per Visit
+Partial Hospital - ALL,915,RC,Outpatient,,,1800.00,1800.00,BLUE CROSS FEDERAL,BLUE CROSS FEDERAL,,685.000,,,685.000,287.99,685.00,Other,This service will be charge as a Per Visit
+Partial Hospital - ALL,915,RC,Outpatient,,,1800.00,1800.00,TRICARE WEST,TRICARE WEST,,287.990,,,287.990,287.99,685.00,Other,This service will be charge as a Per Visit
+Partial Hospital - ALL,915,RC,Outpatient,,,1800.00,1800.00,VA TRIWEST COMPACT,VA TRIWEST COMPACT,,437.080,,,437.080,287.99,685.00,Other,This service will be charge as a Per Visit
